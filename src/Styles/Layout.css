@@ -1,0 +1,12 @@
+.layout-part{
+    display: flex;
+    justify-content: space-between;
+}
+
+.layout-right{
+    width: 1000px;
+}
+
+.layout-left{
+    width: 300px;
+}

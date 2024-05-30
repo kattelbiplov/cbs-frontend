@@ -1,0 +1,33 @@
+/* Input fields */
+input[type="text"] {
+    margin-bottom:25px;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  /* Buttons */
+  button {
+    margin-right: 10px;
+    margin-top: 20px;
+    padding: 10px 16px;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff; /* Blue color */
+    color: white;
+  }
+  
+  button:hover {
+    background-color: #0056b3; /* Darker blue color on hover */
+  }
+  
+.console-btn{
+    background-color: green;
+}
+
+.remove-btn{
+    background-color: red;
+}
